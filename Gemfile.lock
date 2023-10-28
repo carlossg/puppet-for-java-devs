@@ -19,7 +19,7 @@ GEM
       rake
       rspec (>= 2.9.0)
       rspec-puppet (>= 0.1.1)
-    rake (10.0.3)
+    rake (12.3.3)
     rspec (2.12.0)
       rspec-core (~> 2.12.0)
       rspec-expectations (~> 2.12.0)
